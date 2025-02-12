@@ -1,4 +1,4 @@
-# Vending Machine Database Project
+# SQL Challenge - Vending Machine Database Project
 
 ## About the Project
 
